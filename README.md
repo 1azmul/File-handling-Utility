@@ -12,7 +12,7 @@
 
 #MENTOR#: NEALA SANTOSH
 
-##  I have perform the first task :File handling utility in java that is assigned to me . I have used Eclipse IDE editor tools for this task 
+##  I have performed the first task :File handling utility in java that is assigned to me . I have used Eclipse IDE editor tools for this task 
 and also I have used various leanring platforms like chatgpt,youtube etc##
 
 #THE OUTPUT OF THIS TAKS IS#:
