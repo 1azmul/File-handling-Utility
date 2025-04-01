@@ -28,5 +28,11 @@ and also I have used various leanring platforms like chatgpt,youtube etc##
 ![Image](https://github.com/user-attachments/assets/60786447-0623-430f-8377-9fc9c403c168)
 ![Image](https://github.com/user-attachments/assets/57ef1eef-2a17-4b97-afab-98995373ae25)
 
+#ReadingFile output#:
+![Image](https://github.com/user-attachments/assets/47ae3d84-a4ca-4622-b2ca-7578b4878ed0)
+
+#AppendFile output#:
+
+
 
 
