@@ -32,6 +32,10 @@ and also I have used various leanring platforms like chatgpt,youtube etc##
 ![Image](https://github.com/user-attachments/assets/47ae3d84-a4ca-4622-b2ca-7578b4878ed0)
 
 #AppendFile output#:
+![Image](https://github.com/user-attachments/assets/be54c37f-0706-4c67-99ac-a403d27d307c)
+![Image](https://github.com/user-attachments/assets/ca33a3ab-cc1f-42c4-a015-0ea5ceb553ee)
+
+#DELETE FILE OUTPUT#:
 
 
 
