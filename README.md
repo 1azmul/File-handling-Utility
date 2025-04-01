@@ -19,6 +19,7 @@ and also I have used various leanring platforms like chatgpt,youtube etc##
 
 #creatingFile output#:
 ![Image](https://github.com/user-attachments/assets/876a5e17-b721-448c-95ed-b14ae03ef73b)
+![Image](https://github.com/user-attachments/assets/464ad978-795f-48ad-b1fb-a5a00861872e)
 
 
 
