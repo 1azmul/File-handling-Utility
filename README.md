@@ -17,5 +17,9 @@ and also I have used various leanring platforms like chatgpt,youtube etc##
 
 #THE OUTPUT OF THIS TAKS IS#:
 
+#creatingFile output#:
+![Image](https://github.com/user-attachments/assets/876a5e17-b721-448c-95ed-b14ae03ef73b)
+
+
 
 
